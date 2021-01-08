@@ -12,6 +12,9 @@ The dataset of this project contains
 - Hours: Number of study hours
 - Score: Marks scored
 
+### To see my python notebook for this project click [here](https://github.com/NikitaSharmaa/Python_EDA_and_Machine-Learning_Projects/blob/main/Student_Marks_LinearRegression/Student_Marks_Prediction.ipynb)
+
+
 ## Introduction to Linear Regression
 
 **Linear regression**  is a  _basic_  and  _commonly_  used type of  **predictive analysis**. The overall idea of regression is to examine two things:
@@ -38,5 +41,3 @@ What does each term represent?
 3.  The independent variables should not be correlated. Absence of this phenomenon is known as multicollinearity.
 4.  The error terms must have constant variance. This phenomenon is known as homoskedasticity. The presence of non-constant variance is referred to heteroskedasticity.
 5.  The error terms must be normally distributed.
-
-
