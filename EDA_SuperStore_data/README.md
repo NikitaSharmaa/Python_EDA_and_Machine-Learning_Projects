@@ -37,3 +37,5 @@ The dataset contains following information for each outlet of Super Store:
 
 Overall project summary: Evaluation of products and customers across various Regions & Sates of the Untied States to understand Sales & Profits, grades of profitable as well as losses - and to use the information and insights to help the store perform better - happier customers, better Profits and future growth options.
 
+### To see my python notebook for this project click [here](https://github.com/NikitaSharmaa/Python_EDA_and_Machine-Learning_Projects/blob/main/EDA_SuperStore_data/SuperStore.ipynb)
+
